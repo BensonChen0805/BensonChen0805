@@ -4,6 +4,8 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 using WITDataAccess;
+using System.Configuration;
+using System.Collections.Specialized;
 
 namespace CalcWorkItemsAwaitingTime
 {
@@ -55,7 +57,7 @@ namespace CalcWorkItemsAwaitingTime
                 }
             }
 
-            //Console.Read();
+            Console.Read();
             return;
         }
 
@@ -71,25 +73,40 @@ namespace CalcWorkItemsAwaitingTime
         {
             using (StreamWriter w = File.CreateText(filePath))
             {
-                Console.WriteLine("Id Title State ReopenTimes AwaitingTimeInMin");
+                Console.WriteLine("Id Title CreatedDate CloseDate SupportTeam ServiceCategory SubCategory ReopenTimes TimeSpent AwaitingTimeInMin");
 
                 var csv = new StringBuilder();
-                var columnName = "Id,Title,State,ReopenTimes,AwaitingTimeInMin";
+                var columnName = "Id,Title,CreatedDate,CloseDate,SupportTeam,ServiceCategory,SubCategory,ReopenTimes,TimeSpent,AwaitingTimeInMin";
                 csv.AppendLine(columnName);
                 foreach (var entity in workItemEntities)
                 {
-                    Console.WriteLine($"{entity.Id} {entity.Title} {entity.State} {entity.ReopenTimes} {entity.AwaitingTimeInMinutesInTotal}");
-                    var newLine = $"{entity.Id}," +
-                        $"{entity.Title}," +
-                        $"{entity.CreatedDate}," +
-                        $"{entity.CloseDate}," +
-                        $"{entity.SupportTeam}," +
-                        $"{entity.ServiceCategory}," +
-                        $"{entity.SubCategory}," +
-                        $"{entity.ReopenTimes}," +
-                        $"{entity.TimeSpent}," +
-                        $"{entity.AwaitingTimeInMinutesInTotal}";
-                    csv.AppendLine(newLine);
+                    if (entity.WitType == WitType.ServiceTicket){
+                        //string a = ConfigurationManager.AppSettings.Get("Key0");
+                        //Console.WriteLine(a);
+                        Console.WriteLine($"{entity.Id} " +
+                            $"{entity.Title} " +
+                            $"{entity.CreatedDate} " +
+                            $"{entity.CloseDate} " +
+                            $"{entity.SupportTeam} " +
+                            $"{entity.ServiceCategory} " +
+                            $"{entity.SubCategory} " +
+                            $"{entity.ReopenTimes} " +
+                            $"{entity.TimeSpent} " +
+                            $"{entity.AwaitingTimeInMinutesInTotal}");
+                        var title =  string.Format(("\"{0}\""), entity.Title);
+                        var newLine = $"{entity.Id}," +
+                            $"{title}," +
+                            $"{entity.CreatedDate}," +
+                            $"{entity.CloseDate}," +
+                            $"{entity.SupportTeam}," +
+                            $"{entity.ServiceCategory}," +
+                            $"{entity.SubCategory}," +
+                            $"{entity.ReopenTimes}," +
+                            $"{entity.TimeSpent}," +
+                            $"{entity.AwaitingTimeInMinutesInTotal}";
+                        csv.AppendLine(newLine);
+                    }
+                    
                 }
 
                 w.WriteLine(csv.ToString());

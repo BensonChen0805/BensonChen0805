@@ -1,0 +1,366 @@
+D:\LocalProjects\DataAccess\bin\Debug\DataAccess.dll.config
+D:\LocalProjects\DataAccess\bin\Debug\DataAccess.dll
+D:\LocalProjects\DataAccess\bin\Debug\DataAccess.pdb
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.Azure.DevOps.Comments.WebApi.dll
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.TeamFoundation.Build2.WebApi.dll
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.TeamFoundation.Common.dll
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.TeamFoundation.Core.WebApi.dll
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.TeamFoundation.Dashboards.WebApi.dll
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.TeamFoundation.DistributedTask.Common.Contracts.dll
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.TeamFoundation.Policy.WebApi.dll
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.TeamFoundation.SourceControl.WebApi.dll
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.TeamFoundation.Test.WebApi.dll
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.TeamFoundation.TestManagement.WebApi.dll
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.TeamFoundation.Wiki.WebApi.dll
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.TeamFoundation.Work.WebApi.dll
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Process.WebApi.dll
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.VisualStudio.Services.TestManagement.TestPlanning.WebApi.dll
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.VisualStudio.Services.TestResults.WebApi.dll
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+D:\LocalProjects\DataAccess\bin\Debug\Newtonsoft.Json.dll
+D:\LocalProjects\DataAccess\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\LocalProjects\DataAccess\bin\Debug\System.Net.Http.Formatting.dll
+D:\LocalProjects\DataAccess\bin\Debug\System.Web.Http.dll
+D:\LocalProjects\DataAccess\bin\Debug\System.Web.Http.WebHost.dll
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.Azure.DevOps.Comments.WebApi.xml
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.TeamFoundation.Build2.WebApi.xml
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.TeamFoundation.Common.xml
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.TeamFoundation.Core.WebApi.xml
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.TeamFoundation.Dashboards.WebApi.xml
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.TeamFoundation.DistributedTask.Common.Contracts.xml
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.TeamFoundation.Policy.WebApi.xml
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.TeamFoundation.SourceControl.WebApi.xml
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.TeamFoundation.Test.WebApi.xml
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.TeamFoundation.TestManagement.WebApi.xml
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.TeamFoundation.Wiki.WebApi.xml
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.TeamFoundation.Work.WebApi.xml
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Process.WebApi.xml
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.WebApi.xml
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.VisualStudio.Services.Common.xml
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.VisualStudio.Services.TestManagement.TestPlanning.WebApi.xml
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.VisualStudio.Services.TestResults.WebApi.xml
+D:\LocalProjects\DataAccess\bin\Debug\Microsoft.VisualStudio.Services.WebApi.xml
+D:\LocalProjects\DataAccess\bin\Debug\Newtonsoft.Json.xml
+D:\LocalProjects\DataAccess\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\LocalProjects\DataAccess\bin\Debug\System.Net.Http.Formatting.xml
+D:\LocalProjects\DataAccess\bin\Debug\System.Web.Http.xml
+D:\LocalProjects\DataAccess\bin\Debug\System.Web.Http.WebHost.xml
+D:\LocalProjects\DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.Common.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\de\Microsoft.TeamFoundation.Common.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\es\Microsoft.TeamFoundation.Common.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.Common.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\it\Microsoft.TeamFoundation.Common.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.Common.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.Common.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.Common.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.Common.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.Common.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Common.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Common.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\de\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\es\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\it\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\de\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\es\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\it\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\cs\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\de\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\es\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\fr\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\it\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\ja\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\ko\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\pl\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\tr\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Common.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\cs\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\de\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\es\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\fr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\it\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\ja\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\ko\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\pl\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\tr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\LocalProjects\DataAccess\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.WebApi.resources.dll
+D:\LocalProjects\DataAccess\obj\Debug\WITDataAccess.csproj.CoreCompileInputs.cache
+D:\LocalProjects\DataAccess\obj\Debug\WITDataAccess.csproj.CopyComplete
+D:\LocalProjects\DataAccess\obj\Debug\DataAccess.dll
+D:\LocalProjects\DataAccess\obj\Debug\DataAccess.pdb
+D:\LocalProjects\DataAccess\obj\Debug\WITDataAccess.csprojAssemblyReference.cache
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.Azure.DevOps.Comments.WebApi.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.TeamFoundation.Build2.WebApi.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.TeamFoundation.Common.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.TeamFoundation.Core.WebApi.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.TeamFoundation.Dashboards.WebApi.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.TeamFoundation.DistributedTask.Common.Contracts.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.TeamFoundation.Policy.WebApi.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.TeamFoundation.SourceControl.WebApi.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.TeamFoundation.Test.WebApi.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.TeamFoundation.TestManagement.WebApi.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.TeamFoundation.Wiki.WebApi.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.TeamFoundation.Work.WebApi.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Process.WebApi.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.VisualStudio.Services.TestManagement.TestPlanning.WebApi.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.VisualStudio.Services.TestResults.WebApi.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\System.Web.Http.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.Azure.DevOps.Comments.WebApi.xml
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.TeamFoundation.Build2.WebApi.xml
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.TeamFoundation.Common.xml
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.TeamFoundation.Core.WebApi.xml
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.TeamFoundation.Dashboards.WebApi.xml
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.TeamFoundation.DistributedTask.Common.Contracts.xml
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.TeamFoundation.Policy.WebApi.xml
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.TeamFoundation.SourceControl.WebApi.xml
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.TeamFoundation.Test.WebApi.xml
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.TeamFoundation.TestManagement.WebApi.xml
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.TeamFoundation.Wiki.WebApi.xml
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.TeamFoundation.Work.WebApi.xml
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Process.WebApi.xml
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.WebApi.xml
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.VisualStudio.Services.Common.xml
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.VisualStudio.Services.TestManagement.TestPlanning.WebApi.xml
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.VisualStudio.Services.TestResults.WebApi.xml
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Microsoft.VisualStudio.Services.WebApi.xml
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\System.Web.Http.xml
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\de\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\es\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\it\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\de\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\es\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\it\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\de\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\es\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\it\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\cs\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\de\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\es\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\fr\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\it\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\ja\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\ko\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\pl\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\tr\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\cs\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\de\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\es\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\fr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\it\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\ja\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\ko\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\pl\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\tr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\obj\Debug\WITDataAccess.csprojAssemblyReference.cache
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\obj\Debug\WITDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\obj\Debug\WITDataAccess.csproj.CopyComplete
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\v-cupa\source\repos\work item proj\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.Azure.DevOps.Comments.WebApi.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.TeamFoundation.Build2.WebApi.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.TeamFoundation.Common.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.TeamFoundation.Core.WebApi.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.TeamFoundation.Dashboards.WebApi.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.TeamFoundation.DistributedTask.Common.Contracts.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.TeamFoundation.Policy.WebApi.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.TeamFoundation.SourceControl.WebApi.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.TeamFoundation.Test.WebApi.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.TeamFoundation.TestManagement.WebApi.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.TeamFoundation.Wiki.WebApi.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.TeamFoundation.Work.WebApi.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Process.WebApi.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.VisualStudio.Services.TestManagement.TestPlanning.WebApi.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.VisualStudio.Services.TestResults.WebApi.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\System.Web.Http.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.Azure.DevOps.Comments.WebApi.xml
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.TeamFoundation.Build2.WebApi.xml
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.TeamFoundation.Common.xml
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.TeamFoundation.Core.WebApi.xml
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.TeamFoundation.Dashboards.WebApi.xml
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.TeamFoundation.DistributedTask.Common.Contracts.xml
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.TeamFoundation.Policy.WebApi.xml
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.TeamFoundation.SourceControl.WebApi.xml
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.TeamFoundation.Test.WebApi.xml
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.TeamFoundation.TestManagement.WebApi.xml
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.TeamFoundation.Wiki.WebApi.xml
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.TeamFoundation.Work.WebApi.xml
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Process.WebApi.xml
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.WebApi.xml
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.VisualStudio.Services.Common.xml
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.VisualStudio.Services.TestManagement.TestPlanning.WebApi.xml
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.VisualStudio.Services.TestResults.WebApi.xml
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Microsoft.VisualStudio.Services.WebApi.xml
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\System.Web.Http.xml
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\de\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\es\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\it\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Common.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\cs\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\de\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\es\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\it\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\pl\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\pt-BR\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Core.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\de\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\es\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\fr\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\it\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\ja\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\ko\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\ru\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\tr\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\zh-Hant\Microsoft.TeamFoundation.Dashboards.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\cs\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\de\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\es\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\fr\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\it\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\ja\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\ko\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\pl\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\tr\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.Common.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\cs\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\de\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\es\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\fr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\it\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\ja\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\ko\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\pl\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\pt-BR\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\tr\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\zh-Hans\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\bin\Debug\zh-Hant\Microsoft.VisualStudio.Services.WebApi.resources.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\obj\Debug\WITDataAccess.csprojAssemblyReference.cache
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\obj\Debug\WITDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\obj\Debug\WITDataAccess.csproj.CopyComplete
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\v-cupa\source\repos\workItemProj\DataAccess\obj\Debug\DataAccess.pdb
